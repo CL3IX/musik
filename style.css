@@ -1,3 +1,7 @@
+body {
+  background-color: #f6fbf4;
+}
+
 a:link {
   color: white;
 }
@@ -18,129 +22,97 @@ a {
   text-decoration: none;
 }
 
+section {
+  padding-top: 5rem;
+}
+
 @media only screen and (min-width: 1025px) {
   .gbr {
-    margin-top: 4rem;
-    margin-left: 13rem;
-  }
-
-  .gbr2 {
-    margin-top: 4rem;
+    height: 160px;
+    width: 320px;
+    margin-top: 5rem;
+    margin-left: 12rem;
   }
 
   .tlsn {
-    margin-top: 7rem;
-    color: #f8f9fa;
+    margin-top: 5rem;
   }
 
-  .tlsn2 {
-    color: #f8f9fa;
-    padding-top: 10rem;
+  .cd3 {
+    margin-left: 2rem;
   }
 
-  .jumbotron {
-    height: 330px;
+  .cd4 {
+    margin-left: 3rem;
   }
 
-  .jb2 {
-    height: 430px;
+  .cdall {
+    margin-right: 2rem;
   }
 
-  #footer {
-    background-color: #65c18c;
+  .showmore {
+    margin-top: 2rem;
   }
 
-  .ftr {
-    margin-top: 3rem;
+  .gbr2 {
+    margin-left: 10rem;
   }
 
-  #layanan {
-    height: 440px;
+  .tlsn3 {
+    margin-top: 1rem;
   }
 
-  .card2 {
-    height: 321px;
+  .cdd {
+    margin-left: 4rem;
   }
 
-  .cd2 {
-    margin-left: 6rem;
+  .cdd6 {
+    margin-left: 8rem;
   }
 
-  .cd {
-    margin-left: 15rem;
+  .btg {
+    padding-left: 9rem;
   }
 
-  .harga {
-    margin-bottom: 1rem;
+  .bg1 {
+    margin-left: 1rem;
   }
 
-  .ftrtlsn {
-    margin-top: 3rem;
+  .owner {
+    margin-top: 2rem;
+    margin-left: 7rem;
   }
 
-  .icn {
-    margin-top: 4rem;
-    margin-left: 13rem;
-  }
-
-  .pftr {
-    margin-top: 3rem;
+  .kirim {
     margin-left: 15rem;
   }
 }
 
 @media only screen and (max-width: 500px) {
-  .tlsn {
-    margin-top: 2rem;
-    color: #f8f9fa;
-  }
-
-  .tlsn2 {
-    color: #f8f9fa;
-    margin-top: 2rem;
-  }
-
   .gbr {
-    margin-left: 5rem;
+    margin-left: 2rem;
+    width: 300px;
   }
 
   .gbr2 {
-    margin-top: 3rem;
-    padding: 2rem;
+    width: 360px;
   }
 
-  #layanan {
-    background-color: #65c18c;
-    height: 50rem;
-  }
-
-  .cd {
-    margin-left: 1rem;
-  }
-
-  .cd2 {
+  .lokasi {
+    padding-left: 4rem;
     margin-top: 1rem;
   }
 
-  .card2 {
-    margin-bottom: 2rem;
-    height: 317px;
-  }
-
-  .harga {
-    margin-bottom: 1rem;
-  }
-
-  .bg1 {
+  .lokasi2 {
+    padding-left: 3rem;
     margin-top: 1rem;
-    margin-bottom: 1rem;
   }
 
-  .bg2 {
-    margin-bottom: 1rem;
+  .showmore {
+    margin-top: 2rem;
   }
 
-  .icn {
-    margin-top: 4rem;
+  .kirim {
+    margin-left: 8rem;
   }
 }
