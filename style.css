@@ -1,1 +1,147 @@
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+@media only screen and (min-width: 1025px) {
+  .gbr {
+    margin-top: 4rem;
+    margin-left: 13rem;
+  }
+
+  .gbr2 {
+    margin-top: 4rem;
+  }
+
+  .tlsn {
+    margin-top: 7rem;
+    color: #f8f9fa;
+  }
+
+  .tlsn2 {
+    color: #f8f9fa;
+    padding-top: 10rem;
+  }
+
+  .jumbotron {
+    height: 330px;
+  }
+
+  .jb2 {
+    height: 430px;
+  }
+
+  #footer {
+    background-color: #65c18c;
+  }
+
+  .ftr {
+    margin-top: 3rem;
+  }
+
+  #layanan {
+    height: 440px;
+  }
+
+  .card2 {
+    height: 321px;
+  }
+
+  .cd2 {
+    margin-left: 6rem;
+  }
+
+  .cd {
+    margin-left: 15rem;
+  }
+
+  .harga {
+    margin-bottom: 1rem;
+  }
+
+  .ftrtlsn {
+    margin-top: 3rem;
+  }
+
+  .icn {
+    margin-top: 4rem;
+    margin-left: 13rem;
+  }
+
+  .pftr {
+    margin-top: 3rem;
+    margin-left: 15rem;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .tlsn {
+    margin-top: 2rem;
+    color: #f8f9fa;
+  }
+
+  .tlsn2 {
+    color: #f8f9fa;
+    margin-top: 2rem;
+  }
+
+  .gbr {
+    margin-left: 5rem;
+  }
+
+  .gbr2 {
+    margin-top: 3rem;
+    padding: 2rem;
+  }
+
+  #layanan {
+    background-color: #65c18c;
+    height: 50rem;
+  }
+
+  .cd {
+    margin-left: 1rem;
+  }
+
+  .cd2 {
+    margin-top: 1rem;
+  }
+
+  .card2 {
+    margin-bottom: 2rem;
+    height: 317px;
+  }
+
+  .harga {
+    margin-bottom: 1rem;
+  }
+
+  .bg1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .bg2 {
+    margin-bottom: 1rem;
+  }
+
+  .icn {
+    margin-top: 4rem;
+  }
+}
 
